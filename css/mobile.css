@@ -36,7 +36,7 @@ nav {
     height: 32px;
     padding-top: 2px;
 }
-header div,.last div h2,.last div p {
+.last div h2,.last div p {
     font-family: var(--font-title);
 }
 header div h1 {
